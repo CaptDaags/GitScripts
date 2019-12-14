@@ -11,7 +11,7 @@ If you push without committing, nothing gets pushed. If you commit without addin
 If you add without committing, nothing at all happens, git merely remembers that the changes you added should
 be considered for the following commit.
 
-NB Working with GitHub you will probably have to do a git config user.email "bytesailor@protonmail.ch" to get the
+NB Working with GitHub you will probably have to do a git config user.email "myemail@server.com" to get the
 commit to work.
 
 __ENDS__ 
